@@ -19,4 +19,5 @@ Once the install for uWebSocketIO is complete, the main program can be built and
 
 Here is the example of the simulator using the Kalman filter to predict the path and shows the RMS values:
 
+<img src="Images/simulator.png" />
 
